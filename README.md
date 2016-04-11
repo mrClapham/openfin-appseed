@@ -3,7 +3,7 @@
 ### Prerequisits
 ####You will need:
 
-- A computer running Windows 8 or higher or a Mac running Parrallels, VirtualBox or similar, to allow Windows 8 or higher to be run.
+- A computer running Windows 8 or higher or a Mac running Parallels, VirtualBox or similar, to allow Windows 8 or higher to be run.
 
 - A web browser, preferably Google Chrome.
 
