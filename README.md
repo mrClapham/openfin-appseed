@@ -108,14 +108,14 @@ Add the following code to the app_local.json:
   },
   "shortcut": {
     "company": "OpenFin",
-    "description": "OpenFin appseed",
-    "name": "OpenFin appseed"
+    "description": "OpenFin demo",
+    "name": "OpenFin demo"
   }
 }
 ```
 A full list and explanation of configurable properties may be found at [https://openfin.co/application-config/](https://openfin.co/application-config/) .
 
- The cruical properties are:
+ The crucial properties are:
  
  - "url". This is the path to the main 'index.html' file for the application.
  - "runtime":{"version":"stable}. This is the version of the runtime you wish to target. "stable" gives you the most recent stable build.
